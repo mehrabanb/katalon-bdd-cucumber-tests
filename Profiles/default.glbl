@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>URL of the Application Under Test (AUT)</description>
-      <initValue>'https://katalon.atlassian.net'</initValue>
+      <initValue>'https://142.144.77.147:9445/CommonAssessment/en-CA/'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>A valid account used during the test</description>
-      <initValue>'demo@katalon.com'</initValue>
+      <initValue>'IAAP113035'</initValue>
       <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

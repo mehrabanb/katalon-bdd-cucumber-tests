@@ -54,7 +54,7 @@ public class GlobalVariable {
         try {
             def selectedVariables = TestCaseMain.getGlobalVariables("default")
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
-            selectedVariables += RunConfiguration.getOverridingParameters()
+            selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters(), selectedVariables)
     
             URL = selectedVariables['URL']
             password = selectedVariables['password']

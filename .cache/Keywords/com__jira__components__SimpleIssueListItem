@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B38DE842FF43FC37928D8D152E031BBF",
+  "keywordClasses": [
+    {
+      "name": "com.jira.components.SimpleJiraListItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

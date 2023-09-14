@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B85C2E5DC9CC7CA18E7DE809E17F4B6F",
+  "keywordClasses": [
+    {
+      "name": "com.jira.utils.JWait",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

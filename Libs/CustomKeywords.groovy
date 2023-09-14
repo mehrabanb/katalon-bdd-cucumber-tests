@@ -10,6 +10,7 @@ import java.lang.String
 import org.openqa.selenium.WebElement
 
 
+
 def static "com.jira.components.JSelect.selectByText"(
     	TestObject container	
      , 	TestObject o	
@@ -20,6 +21,7 @@ def static "com.jira.components.JSelect.selectByText"(
          , 	optionText)
 }
 
+
 def static "com.jira.components.JSelect.selectByText"(
     	TestObject container	
      , 	String labelSelect	
@@ -29,6 +31,7 @@ def static "com.jira.components.JSelect.selectByText"(
          , 	labelSelect
          , 	optionText)
 }
+
 
 def static "com.jira.components.JSelect.selectByText"(
     	TestObject container	

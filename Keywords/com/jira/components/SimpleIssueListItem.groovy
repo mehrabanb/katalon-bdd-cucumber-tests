@@ -18,12 +18,15 @@ import com.kms.katalon.core.testobject.ObjectRepository
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+//import com.kms.katalon.core.mobile.keyword.internal.MobileBuiltInKeywords as Mobile
+//import com.kms.katalon.core.webui.keyword.internal.WebUiBuiltInKeywords as WebUI
+
 
 import internal.GlobalVariable
 
-import MobileBuiltInKeywords as Mobile
-import WSBuiltInKeywords as WS
-import WebUiBuiltInKeywords as WebUI
+//import MobileBuiltInKeywords as Mobile
+//import WebUiBuiltInKeywords as WebUI
 
 public class SimpleJiraListItem {
 
