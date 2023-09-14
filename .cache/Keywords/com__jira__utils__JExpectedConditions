@@ -1,0 +1,18 @@
+{
+  "keywordFileContentHash": "047D96F149DCC3BF1855825389065E8C",
+  "keywordClasses": [
+    {
+      "name": "com.jira.utils.JExpectedConditions",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.jira.utils.JExpectedConditions$1",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.jira.utils.JExpectedConditions$2",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
